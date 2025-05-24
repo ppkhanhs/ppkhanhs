@@ -13,13 +13,13 @@
 - 👨‍💻 Currently interested in mobile development
 - 🌱 Always open to new challenges and knowledge
 - 📫 **Contact with me:**  
-  <a href="https://facebook.com/your-profile" target="_blank">
+  <a href="[https://facebook.com/your-profile](https://www.facebook.com/pkhanh.190404/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-ph%C3%BA-kh%C3%A1nh-1ba620323/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="[https://github.com/your-username](https://github.com/ppkhanhs)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28"/>
   </a>
 

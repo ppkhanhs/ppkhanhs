@@ -2,17 +2,20 @@
 
 <h2 align="center">I'm a passionate Software Developer</h2>
 <p align="center">
-  🚀 Always striving to learn and build impactful software.
+  🚀 Always curious, passionate about learning, and unafraid to explore new things.
 </p>
 
 ---
 
 ### 📘 About Me
 
-- 🎯 I'm currently learning: **Flutter**
-- 👨‍💻 Interested in: Mobile Development, System Programming
+- 🎯 Passionate about Software Engineering.
+- 👨‍💻 Currently interested in mobile development
 - 🌱 Always open to new challenges and knowledge
-- 📫 How to reach me: your-email@example.com
+- 📫 **Contact with me:**  
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
 ---
 
@@ -36,4 +39,4 @@
 
 ---
 
-> “Code. Learn. Repeat.” 💻🔥
+> "Commit. Push. Pray." 🔥

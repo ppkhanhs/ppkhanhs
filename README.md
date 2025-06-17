@@ -1,6 +1,6 @@
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<h1 align="center"> Hola 👋 Welcome to my GitHub!</h1>
 
-<h2 align="center">I'm a passionate Software Developer</h2>
+<h2 align="center">Passionate Software Engineer</h2>
 <p align="center">
   Always curious and passionate about science and logic, never afraid to explore new things.
 </p>

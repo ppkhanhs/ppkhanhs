@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm a passionate Software Developer</h2>
 <p align="center">
-  🚀 Always curious, passionate about learning, and unafraid to explore new things.
+  Always curious and passionate about science and logic, never afraid to explore new things.
 </p>
 
 ---

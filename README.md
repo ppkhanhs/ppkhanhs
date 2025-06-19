@@ -5,7 +5,7 @@
   Always curious and passionate about science and logic, never afraid to explore new things.
 </p>
 
----
+--
 
 ### 📘 About Me
 

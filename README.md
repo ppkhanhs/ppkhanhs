@@ -10,7 +10,7 @@
 ### 📘 About Me
 
 - 🎯 Passionate about Software Engineering.
-- 👨‍💻 Currently interested in mobile development
+- 👨‍💻 Currently interested in QA
 - 🌱 Always open to new challenges and knowledge
 - 📫 **Contact with me:**  
   <a href="https://www.facebook.com/pkhanh.190404/" target="_blank">

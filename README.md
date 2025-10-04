@@ -1,6 +1,6 @@
 <h1 align="center"> Hola 👋 Welcome to my GitHub!</h1>
 
-<h2 align="center">Passionate Software Engineer</h2>
+<h2 align="center"></h2>
 <p align="center">
   Always curious and passionate about science and logic, never afraid to explore new things.
 </p>
@@ -9,7 +9,7 @@
 
 ### 📘 About Me
 
-- 🎯 Passionate about Software Engineering.
+- 🎯 Passionate about QA Engineering.
 - 👨‍💻 Currently interested in QA
 - 🌱 Always open to new challenges and knowledge
 - 📫 **Contact with me:**  

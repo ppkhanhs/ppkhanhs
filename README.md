@@ -9,7 +9,6 @@
 
 ### 📘 About Me
 
-- 🎯 Passionate about QA Engineering.
 - 👨‍💻 Currently interested in QA
 - 🌱 Always open to new challenges and knowledge
 - 📫 **Contact with me:**  

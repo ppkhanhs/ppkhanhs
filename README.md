@@ -7,11 +7,11 @@
 
 --
 
-### 📘 About Me
+### About Me
 
-- 👨‍💻 Currently interested in QA
-- 🌱 Always open to new challenges and knowledge
-- 📫 **Contact with me:**  
+- Currently interested in QA
+- Always open to new challenges and knowledge
+- **Contact with me:**  
   <a href="https://www.facebook.com/pkhanh.190404/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="28"/>
   </a>
